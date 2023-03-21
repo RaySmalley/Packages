@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.msi filter=lfs diff=lfs merge=lfs -text
 MitelConnect_214.100.3158.0.exe filter=lfs diff=lfs merge=lfs -text
