@@ -165,9 +165,10 @@
 	PROJECTWORKMANAGEMENT= Office 365 Planner Preview
 	PROJECT_CLIENT_SUBSCRIPTION= Project Pro for Office 365
 	PROJECT_ESSENTIALS= Project Lite
-  PROJECT_MADEIRA_PREVIEW_IW_SKU= Dynamics 365 for Financials for IWs
-  PROJECT_ONLINE_PRO=  Project Online Plan 3
+	PROJECT_MADEIRA_PREVIEW_IW_SKU= Dynamics 365 for Financials for IWs
+	PROJECT_ONLINE_PRO=  Project Online Plan 3
 	RIGHTSMANAGEMENT= Azure Information Protection Premium (P1)
+	RIGHTSMANAGEMENT_CE= Azure Information Protection Premium (P1)
 	RIGHTSMANAGEMENT_ADHOC= Windows Azure Rights Management
 	RIGHTSMANAGEMENT_STANDARD_FACULTY= Azure Rights Management for faculty
 	RIGHTSMANAGEMENT_STANDARD_STUDENT= Information Rights Management for Students
