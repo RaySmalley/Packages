@@ -101,6 +101,7 @@
 	LITEPACK_P2= Office 365 Small Business Premium
 	LOCKBOX= Customer Lockbox
 	LOCKBOX_ENTERPRISE= Customer Lockbox
+	MDE_SMB= Microsoft 365 Apps for business
 	MCOCAP= Command Area Phone
 	MCOEV= Skype for Business Cloud PBX
 	MCOIMP= Skype for Business Online (P1)
