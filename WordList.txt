@@ -5814,7 +5814,6 @@ photographs
 photography
 photos
 photoshop
-phpbb
 phrase
 phrases
 phys
@@ -8807,4 +8806,3 @@ zones
 zoning
 zoom
 zope
-zshops
